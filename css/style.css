@@ -155,3 +155,16 @@ h3{
     grid-column: 2 / 4;    
     }      
 }
+
+/**Nosotros**/
+.nosotros{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 2rem;
+}
+.nosotros__contenido{
+
+}
+.nosotros__imagen{
+
+}
